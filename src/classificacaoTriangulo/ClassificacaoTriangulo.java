@@ -43,6 +43,8 @@ public class ClassificacaoTriangulo {
 		} else {
 			System.out.println("As medidas informadas não podem formar um triângulo!");
 		}
-
+					
+		System.out.println("**********FIM**********");
+		
 	}
 }
